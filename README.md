@@ -2,9 +2,11 @@
 
 Ceci est juste une maquette d'un site web touristique du Cameroun
 
-## Le framework html-css
+## Le framework HTML CSS
 
 Bootstrap 
+
+https://getbootstrap.com/
 
 ## Quelques images de présentation 
 ![capture 1](https://user-images.githubusercontent.com/29696051/149748795-447bc774-2a5e-441e-a128-ce54a1737cc3.PNG)
